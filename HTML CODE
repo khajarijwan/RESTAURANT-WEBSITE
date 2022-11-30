@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet"href="style.css">
+</head>
+<body>
+  
+    <style>
+        #myHeader {
+          background-color: rgb(0, 255, 115);
+          color: black;
+          padding: 20px;
+          text-align: center;
+        }
+        .city {
+          background-color: tomato;
+          color: white;
+          padding: 10px;
+        } 
+        </style>
+        </head>
+        <body>
+        <h1 id="myHeader"><P style= "color:rgb(165, 42, 42);">   ＷＥＬＣＯＭＥ ＴＯ </p>
+            👨‍🍳......꧁༒༺ 𝓐𝓢ℋ𝓘ℛ𝓦𝓐𝓓 ℛ𝓔𝓢𝑇𝓐𝓤ℛ𝓐𝓝𝑇 ༻༒꧂......👩‍🍳</h1>
+         <h3><CETER>
+    <marquee scrollamount="10" direction="left">
+        <img src="https://glimageurl.golocall.com/golocal-post/image/772506_1481971527.jpeg"
+        height="300" width="500">
+
+
+        <img src="https://media.easemytrip.com/media/Blog/India/636977607425696252/636977607425696252QYiiUU.jpg"
+        height="300" width="500">
+
+        <img src="https://c.ndtvimg.com/2020-09/if4pp5j8_vegetarian_625x300_30_September_20.jpg"
+        height="300" width="500">
+
+        <img src="https://mintandbasil.hk/wp-content/uploads/2020/10/Eat-the-Best-Indian-Cuisine-in-hong-kong.jpg"
+        height="300" width="500">
+
+        <img src="https://b.zmtcdn.com/data/pictures/7/3500377/8d838b93ab2fe9f6368ca2cd7b730680.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+        height="300" width="500">
+
+        <img src="https://img.traveltriangle.com/blog/wp-content/uploads/2021/12/Best-Non-Veg-Restaurants-in-Mumbai.jpg"
+        height="300" width="500">
+
+        <img src="https://assets.thehansindia.com/h-upload/2020/03/14/953945-food.webp"
+        height="300" width="500">
+
+        <img src="https://i.pinimg.com/originals/0f/13/7d/0f137d2a243f7b63e5716ab4c10c3ee3.jpg"
+        height="300" width="500">
+
+        <img src="https://media.istockphoto.com/id/494350327/photo/mutton-curry.jpg?s=612x612&w=0&k=20&c=hVHgWtkKFsQKorKVk30RabALq_09gJR0TsU4P0RZDfg="
+        height="300" width="500">
+
+        <img src="https://www.india.com/wp-content/uploads/2021/12/lamb-curry-mutton-traditional-spicy-indian-dish-authentic-vindaloo-fiery-red-goan-154072181.jpg"
+        height="300" width="500">
+
+        <img src="https://www.kolhapurtourism.org/wp-content/uploads/2021/09/non-veg-thali-kolhapur.jpg"
+        height="300" width="500">
+
+        <img src="https://www.shutterstock.com/image-photo/tasty-grilled-meat-non-veg-260nw-730913476.jpg"
+        height="300" width="500">
+
+        <img src="https://media.istockphoto.com/id/471614507/photo/indian-chicken-curry.jpg?s=612x612&w=0&k=20&c=uT5QbV1SD6Hux043sAhsm5IyVxAGzNt47r6nL1YyIQc="
+        height="300" width="500">
+
+        <img src="https://thumbs.dreamstime.com/b/bowl-chinese-noodles-vegetables-white-background-30440348.jpg"
+        height="300" width="500">
+
+        <img src="https://images.unsplash.com/photo-1585032226651-759b368d7246?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bm9vZGxlc3xlbnwwfHwwfHw%3D&w=1000&q=80"
+        height="300" width="500">
+
+        <img src="https://st.depositphotos.com/1529768/1320/i/600/depositphotos_13203117-stock-photo-chicken-chow-mein.jpg"
+        height="300" width="500">
+
+        <img src="https://media.istockphoto.com/id/855749956/photo/roasted-sea-bream-fish-with-lemon-slices.jpg?b=1&s=170667a&w=0&k=20&c=oBC_lxzPXgCBlcqXTuLXoPlNCmRE-tOH9XvCpbpRVtM="
+        height="300" width="500">
+
+        <img src="https://wallpaperaccess.com/full/5393821.jpg"
+        height="300" width="500">
+
+        <img src="https://w0.peakpx.com/wallpaper/715/959/HD-wallpaper-fried-fish-grilled-salmon-seafood-fish-dishes.jpg"
+        height="300" width="500">
+
+        <img src="https://c4.wallpaperflare.com/wallpaper/546/146/433/photo-lemon-fish-lime-wallpaper-preview.jpg"
+        height="300" width="500">
+
+    </marquee>
+    <style>
+        #myHeader {
+          background-color: rgb(0, 255, 140);
+          color: black;
+          padding: 20px;
+          text-align: center;
+        }
+        .city {
+          background-color: rgb(71, 255, 141);
+          color: white;
+          padding: 10px;
+        } 
+        </style>
+        </head>
+        <body>
+        <h2 id="myHeader">...... 𝓒𝓐𝓣𝓔𝓖𝓞𝓡𝓨 𝓞𝓕 𝓥𝓔𝓖 𝓓𝓘𝓢𝓗𝓔𝓢......</h2>
+        <p> <h3><CETER>
+                
+                <CENTER><P><H1>SOUTH INDIAN</H1></P></CENTER>
+                <a href="idli.html"
+                 targatre= blank><img src="https://deih43ym53wif.cloudfront.net/idly-food-india-shutterstock_101041240_7bd8a6703f.jpeg"
+                 height="320" width="370">
+
+                <a href="dosha.html"
+                 targatre= blank><img src="https://static.toiimg.com/thumb/54289752.cms?imgsize=495844&width=800&height=800"
+                 height="320" width="370">
+                </a>
+
+                <a href="bonda.html"
+                 targatre= blank><img src="https://media.istockphoto.com/id/547508294/photo/indian-snack-mangalore-bajji.jpg?s=612x612&w=0&k=20&c=HKow2vX6uZARnsg7DJoTvQor-OPilhFWYf12Kiv9B1k="
+                 height="320" width="370">
+                </a>
+
+                <a href="BADA.HTML"
+                 targatre= blank><img src="https://www.vegrecipesofindia.com/wp-content/uploads/2021/07/vada-recipe-1-500x375.jpg"
+                 height="320" width="370">
+                </a>
+
+               
+                </CETER></h3></p>
+             <CENTER><P><H1>NORTH INDIAN</H1></P></CENTER>   
+
+                <a href="PANIR.HTML"
+                 targatre= blank><img src="https://i.pinimg.com/originals/5f/c5/8e/5fc58e27e6ec97ba34ff83ea6c9e7718.jpg"
+                 height="320" width="370"></a>
+
+                <a href="dalmakhni.html"
+                 targatre= blank><img src="https://wallpapercave.com/wp/wp8494085.gif"
+                 height="320" width="370"></a>
+
+                <a href="MIXVEG.HTML"
+                 targatre= blank><img src="https://i2.wp.com/www.bharatzkitchen.com/wp-content/uploads/2020/08/MIX-VEGTABLE.jpg?fit=640%2C358&ssl=1"
+                 height="320" width="370"></a>
+
+                <a href="CHANA.HTML"
+                 targatre= blank><img src="https://t4.ftcdn.net/jpg/02/97/69/65/360_F_297696576_s8k3pGepliFhN2oILIzLUAkQuukKalDI.jpg"
+                 height="320" width="370"></a>
+                </CETER></h3></p>
+               
+
+                <style>
+                    #myHeader {
+                      background-color: rgb(0, 255, 115);
+                      color: black;
+                      padding: 20px;
+                      text-align: center;
+                    }
+                    .city {
+                      background-color: rgb(71, 255, 126);
+                      color: white;
+                      padding: 10px;
+                    } 
+                    </style>
+                    </head>
+                    <body>
+                    <h2 id="myHeader">...... 𝓒𝓐𝓣𝓔𝓖𝓞𝓡𝓨 𝓞𝓕 𝓝𝓞𝓝𝓥𝓔𝓖......</h2>
+                    <p> <h3><CETER>
+                        
+                <a href="CHICKEN.HTML"
+                targatre= blank><img src="https://i.pinimg.com/originals/d2/bf/30/d2bf300ad8c2418960dd5ca4a0158399.jpg"
+                height="320" width="370">
+               </a>
+               
+                        
+                <a href="MUTTON.HTML"
+                targatre= blank><img src="https://i0.wp.com/www.bharatzkitchen.com/wp-content/uploads/2018/11/mutton-curry-thumb.jpg?fit=800%2C450&ssl=1"
+                height="320" width="370">
+               </a>
+                        
+                <a href="FISH.HTML"
+                targatre= blank><img src="https://c.ndtvimg.com/2020-01/op8grfc_fish_625x300_11_January_20.jpg"
+                height="320" width="370">
+               </a>
+                        
+                <a href="birani.html"
+                targatre= blank><img src="https://recipes.timesofindia.com/thumb/msid-54308405,width-1600,height-900/54308405.jpg"
+                height="320" width="370">
+               </a>
+
+             <center>  ​<h1>Please give the feedback....</h1></center>
+​
+<form action="thankyou visit again....">
+  <h1><p>Please give feedback of our services:</p></h1>
+  <textarea rows="4" cols="50" name="comment" form="usrform">
+    Enter your feedback...</textarea><br>
+  <input type="radio" id="satisfied" name=" thankyou" value="satisfied">
+  <label for="average">Satisfied</label><br>
+  <input type="radio" id="not satisfied" name="thankyou" value="not satisfied">
+  <label for="good">Not satisfied</label><br>
+​
+  <br>  
+  <p>Please give star of our service....:</p>
+  <input type="radio" id="star1" name="star" value="1">
+  <label for="star1"> ⭐</label><br>
+  <input type="radio" id="star2" name="star" value="2">
+  <label for="age2">⭐⭐</label><br>  
+  <input type="radio" id="star3" name="star" value="3">
+  <label for="age3">⭐⭐⭐</label><br>
+  <input type="radio" id="star4" name="star" value="4">
+  <label for="age4">⭐⭐⭐⭐</label><br>
+  <input type="radio" id="star5" name="star" value="5">
+  <label for="age5">⭐⭐⭐⭐⭐</label><br>
+  <input type="submit" value="Submit">
+ 
+</form>
+
+<center><p><h1><p style="color: red;">【 thankyou visit again....🙏🥰】</p></h1></p></center>
+
+    </body>
+    </html>
